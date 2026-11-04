@@ -1,0 +1,6 @@
+
+mnemonic
+ttkbootstrap
+eth-account
+qrcode
+pillow
